@@ -31,7 +31,7 @@ custom_file_path:
   #bodyEnd: source/_data/body-end.swig
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
-  #style: source/_data/styles.styl
+  style: source/css/_custom/custom.styl
 
 
 # ---------------------------------------------------------------
@@ -194,7 +194,7 @@ social:
   Twitter: https://twitter.com/A1ex_liu || fab fa-twitter
   Telegram: https://t.me/a1exchannel || fab fa-telegram
   Weibo: https://weibo.com/kudouconan || fab fa-weibo
-  Bilibili: https://space.bilibili.com/10572578 || fal fa-tv-retro
+  Bilibili: https://space.bilibili.com/10572578 || custom bilibli
 
 social_icons:
   enable: true
