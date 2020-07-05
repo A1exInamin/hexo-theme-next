@@ -57,14 +57,14 @@ footer:
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
-    name: user
+    name: fas fa-user
     # If you want to animate the icon, set it to true.
-    animated: false
+    animated: true
     # Change the color of icon, using Hex Code.
-    color: "#ff0000"
+    color: "#999999"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright: A1ex_inamin
+  copyright: A1exMinatoooo
 
   # Powered by Hexo & NexT
   powered: true
@@ -191,8 +191,8 @@ social:
   #Skype: skype:yourname?call|chat || fab fa-skype
   GitHub: https://github.com/A1exInamin || fab fa-github
   YouTube: https://youtube.com/channel/UC3GUASOCywNaqdjemJUAikQ || fab fa-youtube
-  Twitter: https://twitter.com/A1ex_liu || fab fa-twitter
-  Telegram: https://t.me/a1exchannel || fab fa-telegram
+  Twitter: https://twitter.com/A1exMinatoooo || fab fa-twitter
+  #Telegram: https://t.me/a1exchannel || fab fa-telegram
   Weibo: https://weibo.com/kudouconan || fab fa-weibo
   Bilibili: https://space.bilibili.com/10572578 || fa-custom bilibili
 
@@ -210,6 +210,7 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
+  02ルーム: https://blog.wsswms.dev
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -397,7 +398,7 @@ bookmark:
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: true
+  enable: false
   permalink: https://github.com/A1exInamin
   title: Follow me on GitHub
 
